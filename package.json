@@ -1,0 +1,14 @@
+{
+  "name": "bot-template",
+  "version": "18.02.2023",
+  "description": "Discord Bot Template",
+  "main": "main.js",
+  "scripts": {
+    "start": "echo Starting... && node main.js"
+  },
+  "author": "Necesku#2040",
+  "license": "ISC",
+  "dependencies": {
+    "oceanic.js": "^1.5.0"
+  }
+}
